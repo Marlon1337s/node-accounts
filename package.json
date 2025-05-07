@@ -1,0 +1,17 @@
+{
+  "name": "projeto-accounts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^8.2.6",
+    "kleur": "^4.1.5"
+  }
+}
